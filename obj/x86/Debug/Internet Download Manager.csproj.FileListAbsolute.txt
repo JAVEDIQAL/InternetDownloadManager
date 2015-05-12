@@ -1,0 +1,25 @@
+C:\Users\JAVED\AppData\Local\Temporary Projects\Internet Download Manager\bin\Debug\Internet Download Manager.exe
+C:\Users\JAVED\AppData\Local\Temporary Projects\Internet Download Manager\bin\Debug\Internet Download Manager.pdb
+C:\Users\JAVED\AppData\Local\Temporary Projects\Internet Download Manager\obj\x86\Debug\DownloadManager2.Form1.resources
+C:\Users\JAVED\AppData\Local\Temporary Projects\Internet Download Manager\obj\x86\Debug\Internet_Download_Manager.Properties.Resources.resources
+C:\Users\JAVED\AppData\Local\Temporary Projects\Internet Download Manager\obj\x86\Debug\Internet Download Manager.csproj.GenerateResource.Cache
+C:\Users\JAVED\AppData\Local\Temporary Projects\Internet Download Manager\obj\x86\Debug\Internet Download Manager.exe
+C:\Users\JAVED\AppData\Local\Temporary Projects\Internet Download Manager\obj\x86\Debug\Internet Download Manager.pdb
+C:\Users\JAVED\documents\visual studio 2010\Projects\Internet Download Manager\Internet Download Manager\obj\x86\Debug\Internet Download Manager.exe
+C:\Users\JAVED\documents\visual studio 2010\Projects\Internet Download Manager\Internet Download Manager\obj\x86\Debug\Internet Download Manager.pdb
+C:\Users\JAVED\documents\visual studio 2010\Projects\Internet Download Manager\Internet Download Manager\bin\Debug\Internet Download Manager.exe
+C:\Users\JAVED\documents\visual studio 2010\Projects\Internet Download Manager\Internet Download Manager\bin\Debug\Internet Download Manager.pdb
+C:\Users\JAVED\documents\visual studio 2010\Projects\Internet Download Manager\Internet Download Manager\obj\x86\Debug\DownloadManager2.Form1.resources
+C:\Users\JAVED\documents\visual studio 2010\Projects\Internet Download Manager\Internet Download Manager\obj\x86\Debug\Internet_Download_Manager.Properties.Resources.resources
+C:\Users\JAVED\documents\visual studio 2010\Projects\Internet Download Manager\Internet Download Manager\obj\x86\Debug\Internet Download Manager.csproj.GenerateResource.Cache
+C:\Users\JAVED\Documents\Visual Studio 2010\Projects\Internet Download Manager\Internet Download Manager\obj\x86\Debug\Internet Download Manager.csprojResolveAssemblyReference.cache
+C:\Users\Engineer\Documents\Visual Studio 2010\Projects\Internet Download Manager\Internet Download Manager\obj\x86\Debug\Internet Download Manager.exe
+C:\Users\Engineer\Documents\Visual Studio 2010\Projects\Internet Download Manager\Internet Download Manager\obj\x86\Debug\Internet Download Manager.pdb
+C:\Users\Engineer\Documents\Visual Studio 2010\Projects\Internet Download Manager\Internet Download Manager\bin\Debug\Internet Download Manager.exe
+C:\Users\Engineer\Documents\Visual Studio 2010\Projects\Internet Download Manager\Internet Download Manager\bin\Debug\Internet Download Manager.pdb
+C:\Users\Engineer\Documents\Visual Studio 2010\Projects\Internet Download Manager\Internet Download Manager\obj\x86\Debug\Internet Download Manager.csprojResolveAssemblyReference.cache
+C:\Users\Engineer\Documents\Visual Studio 2010\Projects\Internet Download Manager\Internet Download Manager\obj\x86\Debug\DownloadManager2.Form1.resources
+C:\Users\Engineer\Documents\Visual Studio 2010\Projects\Internet Download Manager\Internet Download Manager\obj\x86\Debug\Internet_Download_Manager.Properties.Resources.resources
+C:\Users\Engineer\Documents\Visual Studio 2010\Projects\Internet Download Manager\Internet Download Manager\obj\x86\Debug\Internet Download Manager.csproj.GenerateResource.Cache
+C:\Users\Engineer\Documents\Internet Download Manager\obj\x86\Debug\Internet Download Manager.exe
+C:\Users\Engineer\Documents\Internet Download Manager\obj\x86\Debug\Internet Download Manager.pdb
